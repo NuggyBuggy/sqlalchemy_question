@@ -1,5 +1,13 @@
- Hi there,
 
+I'm using:
+- Python 2.7.6 on Linux, 
+- SQLAlchemy version 0.9.9.
+- PostgreSQL 9.3
+
+Thanks -
+terry
+
+Hi there,
 I have been pulling my hair out on this one.
 
 I understood that objects make it into the session only due to an explicit call to add().  But, I seem to be seeing objects being added without my explicitly doing so.  Is this to be expected ?
